@@ -1,0 +1,7 @@
+C:\Users\Tanagram\source\repos\GoldBadgeChallenges\Challenge2\bin\Debug\Challenge2.exe.config
+C:\Users\Tanagram\source\repos\GoldBadgeChallenges\Challenge2\bin\Debug\Challenge2.exe
+C:\Users\Tanagram\source\repos\GoldBadgeChallenges\Challenge2\bin\Debug\Challenge2.pdb
+C:\Users\Tanagram\source\repos\GoldBadgeChallenges\Challenge2\obj\Debug\Challenge2.csprojAssemblyReference.cache
+C:\Users\Tanagram\source\repos\GoldBadgeChallenges\Challenge2\obj\Debug\Challenge2.csproj.CoreCompileInputs.cache
+C:\Users\Tanagram\source\repos\GoldBadgeChallenges\Challenge2\obj\Debug\Challenge2.exe
+C:\Users\Tanagram\source\repos\GoldBadgeChallenges\Challenge2\obj\Debug\Challenge2.pdb

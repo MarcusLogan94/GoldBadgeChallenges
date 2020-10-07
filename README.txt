@@ -1,0 +1,3 @@
+Hello. These programs should all run smoothly if the provided solution is loaded into Visual Studio, and each project is selected as the Start-Up project each time you want to evaulate that particular program.
+
+At the moment, I am not including unit tests. My programs function correctly and my "testing" was done in order to create the working console programs. I will be updating my website and with that finshing out the tests and if needed doing other challenges in case partial extra credit is needed to make up for missing unit testing at present.
